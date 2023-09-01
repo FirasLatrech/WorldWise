@@ -35,42 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Pineda-Trasmonte",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-01T04:53:28.584Z",
-      "notes": "Lovely!",
-      "position": {
-        "lat": "41.934976500546604",
-        "lng": "-3.6694335937500004"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Chichaoua",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2023-09-01T04:56:54.888Z",
-      "notes": "Yay.",
-      "position": {
-        "lat": "31.653381399664",
-        "lng": "-8.876953125000002"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-09-01T05:06:15.153Z",
-      "notes": "Eiffel Tower",
-      "position": {
-        "lat": "48.83579746243093",
-        "lng": "2.3291015625000004"
-      },
-      "id": 98443200
     }
   ]
 }
